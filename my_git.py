@@ -6,4 +6,4 @@ func()
 print("hello word")
 
 parint("songjian)
-print("hello dong")
+parint("songjin")
