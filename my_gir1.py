@@ -1,5 +1,3 @@
-print("asfskdfn")
-def func(n):
-    print(n)
 
+func(10)
 func(10)
