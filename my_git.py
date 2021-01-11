@@ -3,3 +3,12 @@ def func():
     print("宋建，你好")
 
 func()
+print("hello word")
+
+print("hello word")
+print("hello word")
+print("hello word")
+print("hello word")
+print("hello word")
+print("hello word")
+print("hello word")
