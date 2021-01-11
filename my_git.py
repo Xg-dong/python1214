@@ -5,9 +5,9 @@ def func():
 func()
 print("hello word")
 
+parint("songjian)
 print("hello word")
-print("hello word")
-print("hello word")
+print("hllo ord")
 print("hello word")
 print("hello word")
 print("hello word")
